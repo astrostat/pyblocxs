@@ -8,7 +8,7 @@ References:
   van Dyk, D.A., Connors, A., Kashyap, V.L., and Siemiginowska, A., 2001, ApJ, 548, 224
   https://ui.adsabs.harvard.edu/abs/2001ApJ...548..224V/abstract
 * pyblocxs: Bayesian Low-Counts X-ray Spectral Analysis in Sherpa
-  Siemiginowska, A. ; Kashyap, V. ; Refsdal, B. ; van Dyk, D. ; Connors, A. ; Park, T.
+  Siemiginowska, A. ; Kashyap, V. ; Refsdal, B. ; van Dyk, D. ; Connors, A. ; Park, T., ADASS, ASP Conference Vol. 442, p.439
   https://ui.adsabs.harvard.edu/abs/2011ASPC..442..439S/abstract 
 * How to handle calibration uncertainties in high-energy Astrophysics
   Kashyap, V.L., Lee, H., Siemiginowska, A., McDowell, J., Rots, A., Drake, J., Ratzlaff, P., Zezas, A., Izem, R., Connors, A., van DYk, D., and Park, T., 2008, Observatory Operations: Strategis, Processes, and Systems, Eds. Roger J. Brissenden and David R. Silva, Proc. of SPIE, v7016, pp.70160P-70160P-8
